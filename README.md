@@ -147,6 +147,4 @@ if __name__ == "__main__":
 
 ## 📄 Licença
 
-Defina a licença do projeto (por exemplo, MIT).
-
 > Este projeto é de uso pessoal e educacional. O conteúdo das notícias pertence à CNN e aos respectivos autores.
